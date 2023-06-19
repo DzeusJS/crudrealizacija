@@ -1,0 +1,15 @@
+.article-header {   
+    background-color: rgb(79, 96, 52);
+    color: rgb(253, 253, 253);
+    border: 3px solid transparent;
+    text-align: center;
+}
+.section-content {   
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15px;
+}
+
+.add-movie-btn {
+ margin-top: 5px;
+}
